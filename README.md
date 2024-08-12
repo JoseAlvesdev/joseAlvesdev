@@ -68,3 +68,7 @@
 </div>
 
 ###
+
+![snake gif](https://github.com/JoseAlvesdev/JoseAlvesdev/blob/output/github-contribution-grid-snake.svg)
+
+###
