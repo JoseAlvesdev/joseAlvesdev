@@ -7,7 +7,7 @@
 ###
 
 <div>
-  <p align="left" width="50%">
+  <p align="left" width="300" display="inline">
   • 🎓 Graduado em Gestão Pública • 💭 Buscando uma Pós • 😄 Pronouns: Ele/Dele • 🖥️ Estudando Desenvolvimento de Sistemas • 🪛 Trabalhando como Freelancer • 👨‍💻 Futuro <devFullStack/>
   </p>
   <img align="right" width="300" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" alt="Gif pessoa em desenho animado estudando programação"/>
