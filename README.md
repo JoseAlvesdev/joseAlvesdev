@@ -6,11 +6,11 @@
 
 ###
 
-<div style="display: flex;">
-  <div width="50%">
+<div>
+  <div align="left" width="50%">
   • 🎓 Graduado em Gestão Pública • 💭 Buscando uma Pós • 😄 Pronouns: Ele/Dele • 🖥️ Estudando Desenvolvimento de Sistemas • 🪛 Trabalhando como Freelancer • 👨‍💻 Futuro <devFullStack/>
   </div>
-  <div width="50%">
+  <div align="right" width="50%">
     <img width="100%" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif" alt="Gif pessoa em desenho animado estudando programação"/>
   </div>
 </div>
