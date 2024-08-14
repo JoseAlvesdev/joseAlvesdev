@@ -37,21 +37,16 @@
 
 ###
 
-<table align="center">
-  <tr>
-    <td>
+
       
-  [![José Henrique's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JoseAlvesdev&show_icons=true&bg_color=00000000&card_width=600)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-    </td>
-    <td>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAlvesdev&layout=compact&bg_color=00000000&card_width=400)
-    </td>
-  </tr>
-</table>
-<div >
-
   
+<div align="center">
 
+    
+  [![José Henrique's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JoseAlvesdev&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+    
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseAlvesdev&layout=compact&bg_color=00000000)
   
 
 </div>
